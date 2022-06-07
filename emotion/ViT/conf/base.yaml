@@ -1,0 +1,3 @@
+opt: AdamW
+num_epochs: 10
+batch_size: 4
